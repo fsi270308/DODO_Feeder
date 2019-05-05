@@ -7,4 +7,4 @@ This repository contains STL files to print DoDo Feeder with a 3D printer.
 
  Demo：
 
-<iframe height=498 width=510 src='http://player.youku.com/embed/XNDE2NjY3NTcyMA==' frameborder=0 'allowfullscreen'></iframe>
+[![Watch the video](https://ask.qcloudimg.com/draft/1000046/nc2jcgo0mg.png?imageView2/2/w/1620)](https://v.youku.com/v_show/id_XNDE2NjY3NTcyMA==.html?spm=a2h0j.11185381.listitem_page1.5~A)
