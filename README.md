@@ -3,7 +3,9 @@
 
 ![DODO_Feeder image](https://github.com/fsi270308/DODO_Feeder/blob/master/dodo_feeder.3.jpg?raw=true)
 
-This repository contains STL files to print DoDo Feeder with a 3D printer.
+ 电路原理图：
+ 
+![DODO_Feeder E](https://github.com/fsi270308/DODO_Feeder/blob/master/Electronics/dodo_feeder_R1.png?raw=true)
 
  Demo：
 
